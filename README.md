@@ -1,6 +1,6 @@
 # alura-armazenando-na-web
 
-#Curso de JavaScript para WEB
+##Curso de JavaScript para WEB
 
 #Mochila de Viagem!
 
